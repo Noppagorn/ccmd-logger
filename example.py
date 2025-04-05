@@ -1,4 +1,4 @@
-from ccmd_logger.src import Logger
+from src.ccmd_logger import Logger
 
 def example_function():
     # Get the logger instance with a specific name

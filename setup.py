@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ccmd-logger",
-    version="0.1.0",
+    version="0.1.1",
     packages_dir=find_packages(where='src'),
     install_requires=[
         "coloredlogs>=15.0.1",
