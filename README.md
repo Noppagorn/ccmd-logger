@@ -1,6 +1,6 @@
-# Cows Detector Logger
+# Colorful Console and Multi-Destination Logger
 
-A simple and colorful logging utility for the Cows Detector project. This logger provides colored output for different log levels and supports both console and file logging.
+A simple and colorful logging utility that provides colored output for different log levels and supports both console and file logging.
 
 ## Features
 
@@ -17,8 +17,8 @@ A simple and colorful logging utility for the Cows Detector project. This logger
 ### Development Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cows-detector.git
-cd cows-detector
+git clone https://github.com/Noppagorn/ccmd-logger.git
+cd ccmd-logger
 
 # Install the package in development mode
 pip install -e .
